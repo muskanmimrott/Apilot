@@ -1,0 +1,7 @@
+vendor_id,legal_name,aliases,state_code,gstin,status,bank_account,ifsc,bank_name,address
+V001,Nimbus Office Supplies Pvt Ltd,Nimbus Office Supplies|Nimbus Office Supplies Private Limited,29,29AAFCN4821P1ZW,ACTIVE,50200012345678,HDFC0001234,HDFC Bank,"14 Residency Road, Bengaluru 560025"
+V002,Kaveri Industrial Components Ltd,Kaveri Industrial|Kaveri Industrial Components Limited,33,33AAECK7712R1Z3,ACTIVE,91002003004005,UTIB0000456,Axis Bank,"Plot 22, SIDCO Estate, Coimbatore 641021"
+V003,BlueOrbit IT Services LLP,BlueOrbit IT Services|Blue Orbit IT Services LLP,29,29AAKFB3390L1ZZ,ACTIVE,33445566778899,ICIC0002211,ICICI Bank,"5th Floor, Prestige Tech Park, Bengaluru 560103"
+V004,Sharma Packaging Co,Sharma Packaging Company,09,09AAHFS2201M1Z5,INACTIVE,12121212121212,SBIN0004455,State Bank of India,"Sector 63, Noida 201301"
+V005,Himalaya Logistics Pvt Ltd,Himalaya Logistics|Himalaya Logistics Private Limited,07,07AADCH5566N1Z2,ACTIVE,70707070707070,KKBK0001122,Kotak Mahindra Bank,"Okhla Phase II, New Delhi 110020"
+V006,Zenith Electricals Pvt Ltd,Zenith Electricals|Zenith Electricals Private Limited,27,27AABCZ9087Q1Z6,ACTIVE,60606060606060,HDFC0009988,HDFC Bank,"MIDC Bhosari, Pune 411026"
